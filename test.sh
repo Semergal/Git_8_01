@@ -1,1 +1,2 @@
-rm -i databse/*
+rm -i database/*
+
